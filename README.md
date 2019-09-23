@@ -13,4 +13,4 @@
 
 This repository contains all relevant information for the CAA2020 Session **CAA Scripting Languages Hackathon II - Unconference!**
 
-We're currently collection project ideas in the [issues forum](https://github.com/sslarch/caa2020_hackathon/issues). Feel free to join the discussion.
+We're currently collecting project ideas in the [issues forum](https://github.com/sslarch/caa2020_hackathon/issues). Feel free to join the discussion.
